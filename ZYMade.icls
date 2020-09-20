@@ -1,0 +1,79 @@
+<scheme name="ZYMade" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-09-20T11:33:59</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.2.3.0.0</property>
+    <property name="modified">2020-09-20T11:34:05</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="c67f58" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="5bc600" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="c6a469" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6598c6" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="9077c6" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6598c6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="30be47" />
+      </value>
+    </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffe38b" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c62b" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ff7b00" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="afbf7e" />
+      </value>
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="51c688" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
